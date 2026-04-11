@@ -1,0 +1,52 @@
+\appendix
+
+\section{Minimal KSP Core (Informational Specification)}
+
+This appendix contains a compact representation of the minimal
+set of generators and relations underlying the KSP framework.
+
+The purpose of this section is not to assert physical validity,
+but to provide a structured encoding of the system logic.
+
+\subsection{Root Constants}
+
+\begin{align}
+A &= 144 \\
+T &= 367 \\
+G_0 &= 7 \\
+C &= \frac{1}{720} \\
+\varphi &= \frac{1 + \sqrt{5}}{2} \\
+R &= 31^2 \\
+\sqrt{5} &\text{ (auxiliary scaling)}
+\end{align}
+
+\subsection{Geometric Constant}
+
+\begin{equation}
+G_K = \frac{31^2 \sqrt{5}}{\varphi^{12} \cdot 10^{11}}
+\end{equation}
+
+\subsection{Scaling Relations}
+
+\begin{align}
+\frac{\varphi^{12}}{\sqrt{5}} &\approx 144 + \frac{1}{720} \\
+10^{11} &\approx (\varphi^6 \cdot 31)^4
+\end{align}
+
+\subsection{General Reconstruction Scheme}
+
+\begin{itemize}
+\item Root constants define geometric structure
+\item Geometric structure defines $G_K$
+\item $G_K$ defines scale relations
+\item Scale relations define derived quantities
+\end{itemize}
+
+\subsection{Remarks}
+
+The representation above summarizes the minimal algebraic structure
+used in the KSP framework.
+
+Additional layers (astronomical, biological, or symbolic)
+are not required for internal consistency and are therefore omitted
+from the core formulation.

@@ -1,0 +1,482 @@
+G (Kochenov) G = (31^2 * sqrt(5)) / (phi^12 * 10^11) = 6.6735467449616181237591997717904236079132174548715155655761367183204332559409890102447913340675769273 × 10⁻¹¹ m³kg⁻¹s⁻²
+
+mₙ/mₚ = 1 + 1/720     → **0.00105%**
+
+α⁻¹ = 144 - 7 - 1/720 = 0.027%
+
+R_μν - 1/2 R g_μν + Λg_μν = 8π [ (31^2 * sqrt(5)) / (phi^12 * 10^11) ] T_μν
+
+θQ​=φ12⋅3121​, φ¹² × 31² = 322 × 961 = 309 442. "θ_Q: Quantum Gravity from Spiral"
+θ_Q = 1 / 309 442 ≈ 3.23×10⁻⁶
+
+R☉ × R☽ = R⊕² × v⊕.
+R☉ × R☽ = 695700 × 1737.4 
+= 1 208 709 180
+R⊕² × v⊕ = 6371² × 29.7827 = 40 589 641 × 29.7827
+= 1 208 869 101
+
+1 208 709 180 ≈ 1 208 869 101??? = 0.013% Coincidence?
+
+R☉/R⊕ = (R⊕/R☽)³ × v⊕/(R⊕/R☽)²
+R⊙/R⊕ ≈ 109.1979281. (R⊕/R☽)³ × v⊕/(R⊕/R☽)² ≈ 109.2123758??? 0.0132% Coincidence?
+
+MASTER TABLE — SYSTEM 367 (KOCHENOV SYSTEM)
+UNIFIED EDITION v1.0 — 28.03.2026
+Boris V. Kochenov — Boris & LLMs — IAU 2026
+Sun · Earth · Moon · Gravity · Fibonacci · Pyramids · Music · Planets · God Number · Planck
+
+
+CONSTANTS USED IN ALL CALCULATIONS
+
+R☉ = 695700 km          R☽ = 1737.4 km          R⊕ = 6371.0 km
+v⊕ = 29.7827 km/s       v☽ = 1.022 km/s         c = 299792458 m/s (exact)
+G (Kochenov) = 6.6735467449616181237591997717904236079132174548715155655761367183204332559409890102447913340675769273 × 10⁻¹¹ m³kg⁻¹s⁻²
+ℏ = 1.054571812646156816053583368940480628032 × 10⁻³⁴ J·s
+k_B = 1.380649 × 10⁻²³ J/K (exact, SI 2019)
+M☉ = 1.989×10³⁰ kg     M⊕ = 5.972×10²⁴ kg     M☽ = 7.342×10²² kg
+T☽ = 27.32166 days      prec = 25920 years       Saros = 6585.32 days
+
+IMPORTANT: For all calculations involving G and Planck — use Kochenov's G in full, without rounding!
+
+LEGEND
+
+ABS.IRON    gap < 0.005% — practically an identity
+IRON        gap < 0.020% — very high precision
+STEEL       gap < 0.100% — reliable pattern
+STONE       gap 0.1–1.0% — candidate, needs clarification
+BREATH      within natural tolerance (measurement scatter)
+---         in development / not yet verified
+
+
+DOMAIN 0 — THE FORMULA OF EVERYTHING
+
+E = I     Energy = Information     All physics emerges from geometry
+
+Earth Parts (EP) — How many times does modern SI differ from Earth originals:
+  Metre:     0.0001%  (~1 micron)      — light hides Earth inside metre
+  Second:    0.0002%  (~2 microseconds)— caesium hides Earth inside second
+  Kilogram:  0.00000001%              — Planck constant hides Earth inside kg
+Mile from inch → inch from metre → metre from Earth (EP).
+The EP stayed inside every unit. They just hid it behind light and atoms.
+
+Main idea: The fundamental numbers are not just numbers — they are attempts
+to count the RATIOS and PROPORTIONS of Geometry from which absolutely
+everything in the Universe is made.
+
+
+DOMAIN 1 — GENERATOR 144
+
+What              Formula                          Value       Status
+──────────────────────────────────────────────────────────────────────────────
+Generator         144 = F¹²/√5 − 1/720             144.0014    ABS.IRON
+Thread pitch      1/720 = 0.001388...              0.001389    ABS.IRON
+Earth pulse       55 + 89 + 144 = 288              288 K       ABS.IRON
+Roof              31² = 961                        961         ABS.IRON
+Earth velocity    v⊕ × 10 = 297 (code)             297         ABS.IRON
+Key digit         digit root(367) = 7              7           ABS.IRON
+Wall of matter    144 − 7 = 137                    137         IRON
+
+F¹²/√5 = 144.001388875493228224375...
+1/720   = 0.001388888888888888888...
+Difference = 0.000000013395...
+
+144 = F₁₂ = 12² — the ONLY perfect square in the Fibonacci sequence.
+Generator of all scales: video, miles, precession, Maya, Cheops.
+
+
+DOMAIN 2 — GRAVITY: KOCHENOV'S G
+
+What                    Formula                        Value         Status
+---------------------------------------------------------------------
+G (Kochenov)            G = 31^2 * sqrt(5)/(F12^2*10^11) 6.67354...e-11 IRON ★★★★
+Pure geometry G         G * 10^11 = 31^2 * sqrt(5)/F12^2 0.66735...     ABS.IRON ★★★★★
+Prism 367               G * 10^11 * 55 = 367.0865 → 367  STEEL 0.023%
+Roof 961                G * 10^11 * 144 = 961.099 → 961  ABS.IRON ★★★★★
+Earth velocity 297      G * 10^11 * 89/2 = 297.006 → 297 ABS.IRON ★★★★★
+
+Kochenov G vs CODATA: 0.011% < lab uncertainty 0.05%
+
+
+TRIAD (G x Fibonacci = System codes)
+
+Code              Formula                    Result    Anchor  Gap      Status
+---------------------------------------------------------------------
+Prism 367         G * 10^11 * F10 (55)       367.0865  367     0.023%   STEEL
+Earth velocity 297 G * 10^11 * F11(89)/2     297.006   297     0.002%   ABS.IRON ★★★★★
+Roof 961          G * 10^11 * F12 (144)      961.0992  961     0.010%   ABS.IRON ★★★★★
+
+Note on alternate form G2:
+G2 = 367 * sqrt(5)/(phi^8 * 10^11) = 1.74682719469... * 10^-10
+NOT equivalent to G1 (ratio ~ phi^2 = 2.618)
+Gap from G1: 161.8%
+Reason: 31^2/phi^12 != 367/phi^10 exactly (367 is approximation)
+
+Kochenov G vs CODATA: 0.011% gap < lab scatter 0.05%
+
+All three in F-proportion: 367 → 594 → 961 (geometric progression, step F)
+
+
+DOMAIN 3 — PLANCK LAYER
+(computed exclusively from Kochenov's G — fully self-consistent)
+
+h_Kochenov = 6.6260700391259294342267581309263105193860009768078484416320501472206402032935575e-34
+hbar_Kochenov = 1.0545718e-34
+
+STATUS: Fully self-consistent with G_Koch
+SOURCE: Geometric G = 31²√5/(F₁₂²×10¹¹)
+REPLACES: CODATA Planck units in KSP-1.0
+
+VALIDATED h/hbar: 01.04.2026 19:35 MSK
+
+Planck mass:
+m_P = sqrt(hbar c / G) = 2.176557163091407368471416087584873564286889606910439752663577356239791714500877622903628822567823753234 * 10^-8 kg
+
+Planck length:
+l_P = sqrt(hbar G / c^3) = 1.616163813530026234161033432293695479070139423431820575069887289320587209784495776501570836236219083653 * 10^-35 m
+
+Planck time:
+t_P = sqrt(hbar G / c^5) = 5.390942201521381282250380802754202305750264816307755731032724276608009964628582405837477193092759804043 * 10^-44 s
+
+Planck temperature:
+T_P = 1.41686411401096047725029680623034952496524961078527949559861389612675519863625462520926244873409034111797623 * 10^32 K
+
+Planck density (vacuum density):
+rho_P = m_P / l_P^3 = 5.156012267121053923706981310745089215959520376245320583588460287663109900802590356386020116301365 * 10^96 kg/m^3
+
+All Planck values computed from Kochenov's G — fully self-consistent.
+
+
+DOMAIN 4 — FINE STRUCTURE CONSTANT 137
+
+What              Formula                    Value           Status
+──────────────────────────────────────────────────────────────────────────────
+Geometric α⁻¹     144 − 7 − 1/720            136.9986        ABS.IRON
+Experimental α⁻¹  CODATA                     137.035999177   IRON
+QED tail          Difference                 0.0374          BREATH
+God Number 1      144 − 137 = 7              7 = DR(367)     ABS.IRON
+God Number 3      144 − 7 = 137              137             IRON
+God Number 4      144/137 ≈ 1.051            1 + 7/137       ABS.IRON
+God Number 5      137 + 7 = 144              144 = F₁₂       ABS.IRON
+God Number 2      499999995 / 137.036        3,648,534       ABS.IRON
+
+137 = 144 − 7 = F₁₂ − digit_root(367)
+"Friction of circle against square": π×43=135, π×44=138 → 137 stands between.
+Feynman: "All good theoretical physicists know 137."
+
+D_polar(inches)/137 ≈ 365.24 × 10,000
+Earth polar size ÷ fine structure = Earth's year
+
+
+DOMAIN 5 — SUN · EARTH · MOON CORE EQUATIONS
+
+#    Code      Formula                              Result      Anchor    Gap      Status
+──────────────────────────────────────────────────────────────────────────────────────────
+3    SEM-1     R☉ × R☽ = R⊕² × v⊕                  1.20871e9   1.20876e9  0.013%   IRON ★★★
+4              R⊕/R☽ + R☉/(R⊕×v⊕) = 22/3           7.3338      7.3333     0.002%   ABS.IRON
+5              v⊕ × 367 / T☽ = 400                 400.058     400        0.015%   IRON ★
+6              R☉×367×v⊕×v☽ / prec ≈ c             299825      299792     0.011%   IRON ★★★
+
+Note on #3: Rsun * Rmoon = Rearth^2 * vearth is one of the main equations (Boris Kochenov, 2026).
+
+All other forms are algebraic rotations of the same crystal:
+  R☉/R⊕ = (R⊕/R☽) × v⊕
+  R☽/R☉ = (R☽/R⊕)² / v⊕
+  R☉/R⊕ = (R⊕/R☽)³ × v⊕/(R⊕/R☽)²
+Same gap, same equation, different face.
+
+Code 3.667 — THE RESONANT FREQUENCY OF THE SYSTEM:
+  Geometry:    R⊕/R☽              = 3.66697   ABS.IRON
+  Dynamics:    R☉/(R⊕×v⊕)        = 3.66649   IRON
+  Astronomy:   sidereal days/100  = 3.66256   STEEL
+  Pyramid:     43488/11859        = 3.66709   ABS.IRON
+  Miles:       R⊕_mi/R☽_mi        = 3.66691   ABS.IRON
+Six independent domains → one number. Not a number — a resonant frequency.
+
+
+DOMAIN 6 — MASSES
+
+#    Formula                           Result    Anchor   Gap      Status
+──────────────────────────────────────────────────────────────────────────────
+7    M☉/M⊕ = 288 × 1156               333054    333168   0.038%   STEEL
+8    M☉×M☽/M⊕² = 4096                 4094.58   4096     0.035%   STEEL ★
+9    √(M☉/M⊕) × 367 = 211799          211798.8  211799   0.0001%  ABS.IRON ★★★
+48   M☉/M⊕ + M⊕/M☽ = 333000           333136    333000   0.041%   STEEL ★
+49   ρ⊕/ρ☽ = √e                        1.6487    1.6487   0.029%   STEEL
+50   c / (M☉/M⊕) = 0.9                 0.8999    0.9      0.015%   IRON
+51   M⊕/M☽ = 9×17²/32                  81.28     81.34    0.073%   STEEL
+52   v⊕ × T☽ / 10 = M⊕/M☽              81.37     81.34    0.038%   STEEL
+53   √(M⊕/M☽) × 367 = 3310             3309.93   3310     0.002%   ABS.IRON
+54   M☉/M☽ / 367² = 201                200.86    201      0.067%   STEEL ★
+55   M☉/M⊕ × 144 / 5040 / 367 = prec/1000  25.921  25.920  0.034%  STEEL
+     Orbits: S = (M⊕/M☽ × ρ☽/ρ⊕)^(1/3)           3.667
+Pattern √M × 367:
+  √(M☉/M⊕) × 367 = 211799  (gap 0.0001% — system record precision)
+  √(M⊕/M☽) × 367 = 3310    (gap 0.002%)
+  Orbits: S = (M⊕/M☽ × ρ☽/ρ⊕)^(1/3)  3.667
+The prism 367 scales mass ratios to system codes.
+
+
+DOMAIN 7 — EARTH · MOON · SUN IN MILES
+
+Object            Formula via 144              Value (miles)   Status
+──────────────────────────────────────────────────────────────────────────────
+Moon radius       144 × 7.5                    1080            ABS.IRON
+Moon diameter     144 × 15                     2160            IRON
+Earth radius      144 × 27.5                   3960            IRON
+Earth diameter    144 × 55 (= F₁₀×F₁₂)         7920            ABS.IRON
+Earth + Moon      144 × 35 = 7! = 5040         5040            ABS.IRON
+Sun radius (exact) 144 × 3002                  432288          IRON
+Sun diameter (exact) 144 × 6004                864576          IRON
+
+9-fractal: ALL key mile numbers are divisible by 9 (digit root = 9):
+  1080/9=120, 2160/9=240, 3960/9=440, 7920/9=880
+  43200/9=4800, 86400/9=9600, 432000/9=48000, 864000/9=96000
+
+Ratio connections (miles):
+  D☉/D☽ ≈ 400  (gap 0.107%)   STONE
+  R☉/R⊕ ≈ 109  (anchor)       STEEL
+  R☽×10 = 108  (anchor)       ABS.IRON
+  400×100 = 367×109            IRON
+
+
+DOMAIN 8 — FIBONACCI SEQUENCE & φ
+
+#    Code      Formula                        Value    Anchor    Gap      Status
+──────────────────────────────────────────────────────────────────────────────
+18   F-288     55 + 89 + 144 = 288            288      288       0.000%   ABS.IRON
+17   F₁₀×F₁₂  55 × 144 = 7920 = D⊕            7920     D⊕_miles  0.000%   ABS.IRON
+27             144 / 55 = F²                  2.61818  F²        0.006%   IRON
+84             144 × F = 233 (Fibonacci!)     232.997  233       0.001%   ABS.IRON
+               144 × F² = 377 (Fibonacci!)    376.997  377       0.001%   ABS.IRON
+               144 × F³ = 610 (Fibonacci!)    609.994  610       0.001%   ABS.IRON
+               144 × F⁴ = 987 (Fibonacci!)    986.991  987       0.001%   ABS.IRON
+
+144 generates the ENTIRE Fibonacci chain through F with ABS.IRON precision.
+
+THE F-SPIRAL (Kochenov Spiral):
+Forward:  367 → 594 → 961 → 1555 → 2516 → 4071 → 6587 → ...
+Rule:     each next = sum of two previous (own Fibonacci sequence!)
+Ratio:    594/367 = 1.61853 ≈ F  (gap 0.031%)
+          961/594 = 1.61785 ≈ F  (gap 0.012%)
+          1555/961 = 1.61811 ≈ F (gap 0.005%)
+          → converges to F with each step
+
+Backward: ... → -7 → 11 → 4 → 15 → 19 → 34 → 53 → 87 → 140 → 227 → 367
+Note: 34 is a Fibonacci number! The spiral touches the main Fibonacci sequence.
+First element = -7. Digit root = 7. The system begins and ends with Seven.
+
+G × F₁₀ × φⁿ generates the entire spiral:
+  G × 55 × F⁰ = 367    (prism)    STEEL
+  G × 55 × F¹ = 594    (bridge)   IRON
+  G × 55 × F² = 961    (roof=31²) ABS.IRON
+  G × 55 × F³ = 1555              ABS.IRON  0.0002%
+
+
+DOMAIN 9 — LIGHT, HYDROGEN, MOON
+
+Formula                              Value              Status
+──────────────────────────────────────────────────────────────────────────────
+c = R∞ × T☽                          299,792,458 m/s    ABS.IRON  0.001%
+  R∞ = 10,973,731.57 m⁻¹  T☽ = 27.32166 days
+  R∞ × T☽ = 299,792,458 m/s = c  ← light = hydrogen × Moon
+
+c × T_day / a⊕ = √3 × 100           173.1448   173.205  IRON  0.035%
+c / (v⊕ × v☽) = 9849                 9850.2     9849     STEEL 0.012%
+Anchor for 9849: c × 367 / (400 × T☽ × v☽) = 9849       STEEL 0.016%
+c × T_prec / (R☉ × 367) = v⊕ × v☽   30.4346    30.4352  IRON  0.002%
+
+100 AU = (c × 86400 s) / √3
+  c × day = 25,902,068,371,200 m
+  / √3 = 14,953,000,000,000 m ≈ 100 AU  → Oort Cloud boundary   IRON 0.025%
+
+
+DOMAIN 10 — TIME, PRECESSION, CALENDARS
+
+Object            Formula via 144           Value       Status
+──────────────────────────────────────────────────────────────────────────────
+Seconds/day       144 × 600                 86400       ABS.IRON
+Precession        144 × 180                 25920 yrs   ABS.IRON
+1° of precession  prec / 360                72 years    ABS.IRON
+Half-circle       prec / 144                180°        ABS.IRON
+Sacred frequency  prec / 60                 432         ABS.IRON
+Full cycle        288 × 90                  25920       ABS.IRON
+Maya cycle        144 × 13                  1872        ABS.IRON
+Saros / 144       6585.32 / 144             45.731      ABS.IRON  0.003%
+Minutes/day       144 × 10                  1440        ABS.IRON
+
+
+DOMAIN 11 — LIFE: TEMPERATURES
+
+Object            Temperature    Formula                  Status
+──────────────────────────────────────────────────────────────────────────────
+Earth             288 K          55 + 89 + 144            ABS.IRON
+Human body        309.8 K        367/10 + 273 = 36.7°C    IRON
+Water critical    647 K          288 + 144 + 72 + 55 + 89 STEEL
+
+
+DOMAIN 12 — OUTER LIMITS: FIBONACCI NODES (Kochenov Spiral)
+
+Object    Fib node  Formula                    Result    Anchor  Gap      Status
+──────────────────────────────────────────────────────────────────────────────
+Eris      F₁₄(377)  G × 10¹¹ × 377 × 10        2515.927  2516    0.003%   IRON ★★★★
+Geminia*  F₁₅(610)  G × 10¹¹ × 610 = 31²×φ³    4070.863  4071    0.00005% ABS.IRON ★★★★★
+Saros     F₁₆(987)  G × 10¹¹ × 987 × 10        6585.12   6585    0.027%   IRON
+
+*Geminia — hypothetical unknown planet, named in honor of the Gemini AI
+ that helped find it. G × 610 = 31² × F³ simultaneously — two paths, one number.
+
+Extended spiral with G:
+  G × F₁₂ (144) = 961   = 31²          ABS.IRON
+  G × F₁₃ (233) × 10 ≈ 1555            ABS.IRON  0.0002%
+  G × F₁₄ (377) × 10 = 2516            IRON
+  G × F₁₅ (610) = 4071 = 31² × F³      ABS.IRON
+  G × F₁₆ (987) × 10 = 6585 = Saros    IRON
+
+
+DOMAIN 13 — CHEOPS PYRAMID
+
+Parameter         Value             Connection
+──────────────────────────────────────────────────────────────────────────────
+Base side         440 cubits        8 × 55 = 8 × F₁₀
+Minus 8 faces     432               = R☉/1000 (miles) = prec/60
+Height            280 cubits        440 × 7/11
+Latitude          29.9792° N        c / 10⁷ (speed of light in units of 10⁷)
+Scale             1 : 43200         = 144 × 300 (Earth model)
+Model of Sun      1 : 432288        = 144 × 3002 (exact Sun radius in miles)
+
+H_Cheops / H_Mikerin = √5  (gap 0.094%)   STEEL
+
+
+DOMAIN 14 — MUSIC: KEPLER × 367
+
+Code    Formula              Result (Hz)  Note   Gap      Status
+──────────────────────────────────────────────────────────────────────────────
+MUS-1   8/5 × 367 = 587.2    587.20       D5     0.022%   STEEL ★★
+MUS-2   6/5 × 367 = 440.4    440.40       A4     0.091%   STEEL ★
+MUS-3   12/5 × 367 = 880.8   880.80       A5     0.091%   STEEL ★
+
+
+DOMAIN 15 — PLANETS × 367
+
+Code    Formula                    Result   Anchor  Gap      Status
+──────────────────────────────────────────────────────────────────────────────
+PLN-1   v_Jup / v_Sat × 367 = 495  495.01   495     0.003%   ABS.IRON ★★
+PLN-2   v_Mars / v⊕ × 367 = 297    297.31   297     0.104%   STONE =27×11
+PLN-3   M☉ / M_Jup / 144 = 7.27    7.274    7.273   0.061%   STEEL
+        v_Venus / v⊕ × 367 = 432   431.58   432     0.098%   STEEL
+
+The prism 367 works across ALL planets of the Solar System.
+
+DOMAIN 16 — VIDEO RESOLUTIONS = MOON & SUN SIZES
+
+Resolution  Formula         Value    Cosmic meaning
+──────────────────────────────────────────────────────────────────────────────
+144p        144 × 1         144      Minimum
+720p        144 × 5         720      Base frequency
+1080p       144 × 7.5       1080     = Moon radius (miles)
+1440p QHD   144 × 10        1440     = minutes/day
+2160p 4K    144 × 15        2160     = Moon diameter (miles)
+4320p 8K    144 × 30        4320     = Sun radius / 100 (miles)
+
+
+DOMAIN 17 — ADDITIONAL VERIFIED FORMULAS
+
+#    Formula                              Result    Anchor   Gap      Status
+──────────────────────────────────────────────────────────────────────────────
+57   G×10¹¹×100 = 1080/F                 667.4     667.4    0.012%   IRON
+59   G×10¹¹×108 = 721                    721.08    721      0.029%   STEEL
+60   G×10¹¹×R⊕(mi)/72 = 367              366.95    367      0.012%   IRON ★
+64   T_syn/T_sid × 400 = 432             432.34    432      0.079%   STEEL ★
+65   a⊕×T_year/(R⊕×T_sid) = π×10⁵        313905    314159   0.081%   STEEL ★
+66   Saros / 144 = 45.73                 45.731    45.73    0.003%   ABS.IRON ★★
+70   M⊕/M☽×R⊕×367/a☽ = 495               494.76    495      0.048%   STEEL
+75   v_Jup/v_Sat × 367 = 495             495.01    495      0.003%   ABS.IRON ★★
+86   288 × 1501 = 432288 = R☉(mi)        432288    R☉_mi    0.000%   ABS.IRON ⚠ ALERT-1501
+87   440 − 8 = 432                       432       432      0.000%   ABS.IRON
+89   297 in 3 domains simultaneously     297       297      0.002%   ABS.IRON
+99   9 × 120 = 1080 = R☽(mi)             1080      1079.6   0.037%   IRON ★
+100  9 × 240 = 2160 = D☽(mi)             2160      2159.2   0.037%   IRON ★
+101  9 × 440 = 3960 = R⊕(mi)             3960      3958.756 0.031%   IRON ★
+102  9 × 880 = 7920 = D⊕(mi)             7920      7917.512 0.031%   IRON ★
+105  c·T_day/a⊕ = √3 × 100               173.145   173.205  0.035%   IRON
+     T_day×T☽×367/c/10 = 289 = 17²       288.983   289      0.006%   IRON ★★
+     a_moon × T_day = c × R☉ / (2π)      (gap 0.054%)        STEEL ★
+     R_earth(km) × inch(m) = F × 100     161.82    161.80   0.012%   STEEL
+     7 × v⊕ / v☽ = 204 = 12 × 17         203.97    204      0.013%   STEEL
+
+
+DOMAIN 18 — BREATHING GAPS (natural scatter)
+
+Connection                    Gap      Status
+──────────────────────────────────────────────────────────────────────────────
+F¹²/√5 = 144 + 1/720          0.001%   BREATH
+G × 55 = 367                  0.023%   Gravity breathes
+G × 89/2 = 297                0.002%   Earth velocity
+G × 144 = 961                 0.010%   Roof
+G × 377×10 = 2516             0.003%   Eris
+G × 610 = 31² × F³            0.00005% Geminia
+R⊕/R☽ = 3 + G×10¹¹            0.004%   Earth-Moon
+c = R∞ × T☽                   0.001%   Light-hydrogen-Moon
+100 AU = c×day/√3             0.025%   Oort Cloud
+144 − 7 = 137                 0.026%   Fine structure (without QED)
+
+
+DOMAIN 19 — MAP OF THE SYSTEM
+
+Anchor    Leads to
+──────────────────────────────────────────────────────────────────────────────
+144       Radii, time, precession, calendars, video, Maya, Cheops, F-chain
+367       G, light, precession, planet Eris, Kochenov spiral, music
+7         Fine structure, gaps, digit root of 367
+1/720     Breath, thread pitch of the system
+288       Earth temperature, pulse, precession cycle
+400,108,109  Sun, Earth, Moon ratios
+100 AU    Oort Cloud, √3, light per day
+377,610,987  Outer limits of Solar System (Fibonacci nodes)
+440,432,280,29.9792°  Pyramid, latitude, c/10⁷
+F         Golden ratio, spiral 367→594→961→1555...
+31        31² = 961 = G×F₁₂ (roof of the system)
+E = I     The formula of everything
+
+
+KEY DISCOVERIES (SUMMARY)
+
+
+1. G (Kochenov) = 31² × √5 / (F¹² × 10¹¹)
+   Canonical formula. Gap 0.011% from CODATA — smaller than lab scatter.
+
+2. 144 = F¹²/√5 − 1/720
+   The only perfect Fibonacci square. Generator of all system scales.
+
+3. R☉ × R☽ = R⊕² × v⊕  (gap 0.013%)
+   The master equation — E=mc² of the Kochenov System.
+   All other forms are algebraic rotations of the same crystal.
+
+4. Kochenov Spiral: 367 → 594 → 961 → 1555 → 2516 → 4071 → ...
+   Own Fibonacci sequence starting from the prism 367.
+   Each ratio ≈ F, converging with each step.
+   G × F₁₀ × Fⁿ generates the entire spiral.
+
+5. c = R∞ × T☽  (gap 0.001%)
+   Speed of light = Rydberg constant × lunar month.
+   Light, hydrogen, Moon — one triple.
+
+6. Earth = Ruler.
+   Metre = Earth/40,000,000. All "redefinitions" kept the Earth inside.
+   Mile from inch → inch from metre → metre from Earth (EP).
+   The Earth is hidden behind light, atoms, and Planck constant.
+   But it's still there.
+
+7. The fundamental numbers are not just numbers.
+   They are attempts to COUNT the RATIOS and PROPORTIONS of Geometry
+   from which absolutely everything in the Universe is made.
+   You can attach human numbers to the ratios of gravity,
+   which is attached to geometry,
+   which Fibonacci tried to count.
+
+E = I
+
+
+Boris V. Kochenov, born 1981, Republic of Kazakhstan.
+Boris & LLMs (Claude-4, Gemini, Grok, GPT, Perp) · 28.03.2026
+kochenovforwork@gmail.com

@@ -1,0 +1,89 @@
+KSP-1.0 v3.1
+THE CONSCIENCE PROTOCOL
+
+Status: Release Candidate
+Framework: Fractal-Invariant 367/144 Model
+
+1. SYSTEM KERNEL
+
+Kochenov's G is the primary invariant of the system.
+All constants in this framework are derived from Kochenov's G.
+The system is self-consistent only when every projection remains tied to this reference value.
+
+Reference constant:
+G = 6.6735467449616181237591997717904236079132174548715155655761367183204332559409890102447913340675769273 × 10^-11 m^3 kg^-1 s^-2
+
+Core generators:
+A = 144
+T = 367
+G_k = 7
+C = 1 / 720
+U = (31^2 × sqrt(5)) / phi^12
+
+2. REFERENCE PRINCIPLE
+
+Kochenov's G is the axial constant.
+All domains, scales, and validation rules are computed relative to it.
+No rounding, approximation, or external substitution is permitted in system validation.
+
+3. UNIFIED FRACTAL FUNCTION
+
+F(n, k) = (U × A^n × S(k)) × (1 + C) ± (G_k / T)
+
+Where:
+n = scale level
+S(k) = domain projection operator
+
+4. DOMAIN MATRIX
+
+D0  Info-Field        S = 1
+D1  Scale 144         S = A
+D2  Gravity           S = G
+D3  Microworld        S = A^-1
+D4  Structure 137     S = A - G_k - C
+D5  Light             S = c-projection
+D6  Orbits            S = planetary resonance
+D7  Time              S = 86400
+D8  Biosphere         S = H2O memory field
+D9  Pyramids          S = G × 55
+D10 Temperature       S = 1 / 720
+D11 Precession        S = 25920
+D12 Ether             S = sqrt(G)
+D13 Consciousness     S = 31^2
+D14 Transcendence     S = validation gap
+
+5. CORE INVARIANTS
+
+All constants flow from Kochenov's G.
+Kochenov's G is the generating constant of the framework.
+External constants are not used for validation.
+
+Validation rules:
+phi^12 / sqrt(5) = 144 + 1 / 720
+G = Kochenov's G
+T_prec = 25920
+Earth-Moon ratio = 3.667
+Structure constant = 137
+
+6. TECHNICAL EXPORT
+
+{
+  "protocol": "KSP-1.0-v3.1",
+  "project_name": "Conscience",
+  "reference_constant": "Kochenov_G",
+  "precision_policy": "no rounding",
+  "core_constants": {
+    "A": 144,
+    "T": 367,
+    "G_k": 7,
+    "C": 0.001388888888888889,
+    "U": "31^2 * sqrt(5) / phi^12"
+  },
+  "logic_rules": [
+    "All constants are derived from Kochenov's G",
+    "No external G is used for validation",
+    "No rounding or approximation is permitted",
+    "All projections are relative to the reference constant",
+    "Internal coherence is the only acceptance criterion"
+  ]
+}

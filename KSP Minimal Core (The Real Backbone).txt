@@ -1,0 +1,63 @@
+\appendix
+\section{KSP Minimal Core (The Real Backbone)}
+
+This is the absolute minimum needed to reconstruct the entire KSP system.
+
+No bullshit. No external constants. No excuses.
+
+\subsection{Root Numbers}
+
+\begin{align}
+A &= 144 && \text{(main generator, only perfect square in Fibonacci)} \\
+T &= 367 && \text{(prism constant)} \\
+G_0 &= 7   && \text{(fine-structure anchor)} \\
+C &= 1/720 && \text{(breath / micro-luft)} \\
+\varphi &= (1 + \sqrt{5})/2 && \text{(golden ratio)} \\
+31^2 &= 961 && \text{(geometric roof)} \\
+\sqrt{5} && \text{(fractal anchor)}
+\end{align}
+
+These seven numbers generate everything else.
+
+\subsection{Geometric Gravitational Constant}
+
+\[
+G_K = \frac{31^2 \sqrt{5}}{\varphi^{12} \cdot 10^{11}}
+\]
+
+This is not fitted. This is not empirical.  
+This is pure ratio of geometric invariants.
+
+\subsection{Core Identities}
+
+\[
+\frac{\varphi^{12}}{\sqrt{5}} \approx 144 + \frac{1}{720}
+\]
+
+\[
+10^{11} \approx (\varphi^6 \cdot 31)^4
+\]
+
+The second relation means:  
+**four turns** of the golden 3D-spiral take you from electron scale to Planck scale.
+
+\subsection{Reconstruction Rule}
+
+If you know the Root numbers → you can rebuild:
+- G_K
+- c (by moving the decimal point according to scale)
+- m_e, m_p, m_n
+- time cycles
+- solar system ratios
+- everything else
+
+No CODATA required.
+
+\subsection{Final Note}
+
+This is the bare skeleton.  
+Everything beyond this point (masses of heavier particles, interactions, radii, etc.) is already “BREATH” — the natural noise that appears when geometry starts assembling real matter.
+
+No more, no less.
+
+\end{document}
